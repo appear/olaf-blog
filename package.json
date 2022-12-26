@@ -21,7 +21,7 @@
     "@emotion/styled": "^11.0.0",
     "glob": "^7.2.0",
     "memoizee": "^0.4.15",
-    "next": "12.0.4",
+    "next": "^12.3.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-syntax-highlighter": "^15.4.5"
